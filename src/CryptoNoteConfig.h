@@ -95,7 +95,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 } // parameters
 
 const char     CRYPTONOTE_NAME[]                             = "novocoin";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "010a01ff0001edeb82bdef9804029b2e4c0281c0b02ec53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101b375c56b5cdfe43837bdbd620ad5b4a3af2e0fae101638dcc699b9285129573";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "010a01ff0001edeb82bdef9804029b2e4c0281c0b02ec53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101b375c56b5cdfe43837bd620ad5b4a3af2e0fae101638dcc699b9285129573";
 
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
